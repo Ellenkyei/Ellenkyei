@@ -20,7 +20,7 @@ My focus is on incorporating Machine Learning and Deep Learning in Traffic Opera
 When I'm not working with data, I enjoy science, especially the ones that reveals the solar system. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://ellenkyei.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 

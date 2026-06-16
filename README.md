@@ -30,8 +30,8 @@ When I'm not working with data, I enjoy science, especially the ones that reveal
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- SUMO for Traffic Simulation
+- ML and DL in Traffic Operationd and Control
 
 ## 🛠️ Technical Skillset
 

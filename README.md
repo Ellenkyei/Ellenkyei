@@ -20,7 +20,7 @@ My focus is on incorporating Machine Learning and Deep Learning in Traffic Opera
 When I'm not working with data, I enjoy science, especially the ones that reveals the solar system. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://ellenkyei.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://ellen-kyei.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
@@ -54,5 +54,4 @@ When I'm not working with data, I enjoy science, especially the ones that reveal
 <p>
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
